@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>driver</name>
-	<url>http://maven.apache.org</url>
+	<url>https://github.com/AThursday/Covid19BaseDriver</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
